@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // Please refer to the message!
             Console.WriteLine("Hello World!");
         }
     }
